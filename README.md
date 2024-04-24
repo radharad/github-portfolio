@@ -11,7 +11,7 @@ Brief introduction about yourself and your passion for technology.
 ### Project 1: [Ayurveda website]
 - Description: [The Ayurveda Health website is a comprehensive online platform built with React.js]
 - Technologies: [React js]
-- Link: [https://github.com/radharad/Health-Website-4.0.git or https://cheery-starship-5ac752.netlify.app]
+- Link: [https://github.com/radharad/Ayurveda_1.0.git or https://templatefirstayurveda.netlify.app/]
 
 ### Project 2: [Natural Theorpy website]
 - Description: [This is a Natural Theorpy website built using HTML, CSS, and JavaScript and Modern Libraries.]
